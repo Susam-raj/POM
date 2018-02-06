@@ -1,2 +1,0 @@
-# POM
-This is POM
